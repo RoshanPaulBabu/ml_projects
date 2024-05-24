@@ -6,7 +6,7 @@ from sklearn.metrics import  accuracy_score
 
 # Load the dataset
 
-diabetes_data = pd.read_csv('pima-indians-diabetes.data.csv')
+diabetes_data = pd.read_csv('dataset.csv')
 
 # Data Preprocessing
 # Check for missing values
