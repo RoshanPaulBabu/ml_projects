@@ -18,7 +18,7 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/yourusername/ml-projects.git
+    git clone https://github.com/RoshanPaulBabu/ml_projects.git
     ```
 
 2. **Install Dependencies**: Navigate to each project directory and install the required dependencies using the provided `requirements.txt` file:
